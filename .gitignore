@@ -1,0 +1,6 @@
+.idea/
+classes/
+voronoi-generator.iml
+out/
+venv/
+VoronoiGenerator.jar
